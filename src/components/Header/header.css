@@ -1,0 +1,15 @@
+.header {
+    height: 15vh;
+    min-height: 80px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.header a {
+    color: #fff;
+    width: 100%;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+}
