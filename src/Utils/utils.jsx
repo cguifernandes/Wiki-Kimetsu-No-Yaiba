@@ -79,7 +79,7 @@ export function ForCards(posts, i) {
         transition: { duration: 0.2 }}}
         viewport={{ once: true }}>
             
-            <Link to={"/Wiki-Demon-Slayer/search?name=" + posts[i].nome} key={i}>
+            <Link to={"/Wiki-Kimetsu-No-Yaiba/search?name=" + posts[i].nome} key={i}>
                 <div className="text-wrap">
                     <h1>{posts[i].nome}</h1>
                     <p>Raça: {posts[i].raca}</p>
