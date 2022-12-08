@@ -11,8 +11,8 @@ root.render(
   <React.StrictMode>
     <BrowserRouter Basename={process.env.PUBLIC_URL}>
       <Routes>
-        <Route path="/Wiki-Kimetsu-No-Yaiba" element={<App />} />
-        <Route path="/Wiki-Kimetsu-No-Yaiba/search" element={<Link />} />
+        <Route path="/" element={<App />} />
+        <Route path="/search" element={<Link />} />
       </Routes>
     </BrowserRouter>
   </React.StrictMode>
