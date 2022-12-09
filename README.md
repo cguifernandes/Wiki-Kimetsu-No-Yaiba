@@ -27,7 +27,7 @@
 
 -  [React.js](https://pt-br.reactjs.org/)
 
-<h4><a href="wiki-kimetsu-no-yaiba.vercel.app">Clique para visitar o projeto</a></h4>
+[Clique para visitar o projeto](https://wiki-kimetsu-no-yaiba.vercel.app/)
 
 ## 👩‍👩‍👧‍👦 Autor
 <table>
