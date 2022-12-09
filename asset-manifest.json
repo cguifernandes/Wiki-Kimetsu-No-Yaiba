@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Wiki-Kimetsu-No-Yaiba/static/css/main.b54629e8.css",
-    "main.js": "/Wiki-Kimetsu-No-Yaiba/static/js/main.a728c646.js",
-    "index.html": "/Wiki-Kimetsu-No-Yaiba/index.html",
-    "main.b54629e8.css.map": "/Wiki-Kimetsu-No-Yaiba/static/css/main.b54629e8.css.map",
-    "main.a728c646.js.map": "/Wiki-Kimetsu-No-Yaiba/static/js/main.a728c646.js.map"
+    "main.css": "/static/css/main.b54629e8.css",
+    "main.js": "/static/js/main.0ecd53a9.js",
+    "index.html": "/index.html",
+    "main.b54629e8.css.map": "/static/css/main.b54629e8.css.map",
+    "main.0ecd53a9.js.map": "/static/js/main.0ecd53a9.js.map"
   },
   "entrypoints": [
     "static/css/main.b54629e8.css",
-    "static/js/main.a728c646.js"
+    "static/js/main.0ecd53a9.js"
   ]
 }
